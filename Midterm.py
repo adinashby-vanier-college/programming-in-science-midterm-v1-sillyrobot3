@@ -2,9 +2,9 @@ import math
 
 # Q1: Calculate the area of a circle
 def area_of_circle(radius):
-    area = radius**2 * math.pi
+    area_of_circle = radius**2 * math.pi
     
-    return round(area, 2)
+    return round(area_of_circle, 2)
 
 # Q2: Hollow Right Triangle
 def hollow_right_triangle(n):
